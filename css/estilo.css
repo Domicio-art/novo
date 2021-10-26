@@ -1,0 +1,171 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20pt;
+}
+
+.principal {
+	background-color: #ccc;
+	width: 1210px;
+	margin: auto;
+	margin-top: 20px;
+	padding: 10px;
+}
+
+header {
+	background-color: #ddd;
+	width: 1210px;
+	height: 350px;
+	font-family: Arial;
+	font-size: 30pt;
+}
+
+nav {
+	background-color: #ddd;
+	margin-top: 10px;
+	width: 1210px;
+	height: auto;
+	font-size: 15pt;
+	margin-left: 2px;
+}
+
+section {
+	background-color: #ddd;
+	margin-top: 10px;
+	width: 900px;
+	height: 580px;
+	float: left;
+	font-size: 12pt;
+
+}
+
+aside {
+	background-color: #fff;
+	width: 308px;
+	margin-top: 10px;
+	height: 100px;
+	float: right;
+	margin-left: 2px;
+	font-size: 12pt;
+	margin-bottom: 10px;
+}
+
+
+
+footer {
+	margin-top: 10px;
+	background-color: #fff;
+	width: 1210px;
+	height: 120px;
+	text-align: center;
+	clear: both;
+	font-size: 12pt;
+	justify-content: space-between;
+}
+
+
+.container {
+	background-color: #fff;
+	width: 100%;
+	height: auto;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+}
+
+figure {
+	width: 100%;
+	height: auto;
+	text-align: center;
+	border: 1px solid #ccc;
+	padding: 20px;
+	margin-bottom: 25px;
+}
+
+img {
+	width: 30%;
+	height: auto;
+	
+}
+
+.titulo {
+font-size: 40pt;
+
+}
+
+li {
+	font-size: 20pt;
+	margin-left: 30px;
+
+}
+
+form {
+	background-color: #fff;
+	width: 290px;
+	height: 350px;
+	font-family: Arial;
+	font-size: 15pt;
+	margin-left: 5px;
+	margin-right: auto;
+}
+
+h1 {
+	background-color: #ddd;
+	width: 800px;
+	height: 35px;
+	font-family: Arial;
+	font-size: 20pt;
+	margin-left: 10px;
+	margin-right: auto;
+}
+
+h2 {
+	background-color: #ddd;
+	width: 800px;
+	height: 35px;
+	font-family: Arial;
+	font-size: 20pt;
+	margin-left: 10px;
+	margin-right: auto;
+}
+
+h3 {
+	font-family: Arial;
+	font-size: 20pt;
+	margin-left: 10px;
+	margin-right: auto;
+}
+
+h4 {
+	font-size: 12pt;
+}
+
+h6 {
+    font-size: 15pt;
+}
+a {
+	margin-left: 10px;
+	font-size: 15pt;
+	height: 60px;
+}
+
+strong {
+	font-size: 13pt;
+}
+
+#pagto {
+	width: 100%;
+	height: 80px;
+	margin: auto;
+	background-color: #fff;
+	margin-top: 10px;
+	margin-left: 2px;
+	font-size: 12pt;
+	margin-bottom: 10px;
+	justify-content: space-between;
+	display: flex
+
+}	

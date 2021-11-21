@@ -14,7 +14,7 @@
             
            
            <section>
-                <h1>Agendamento de Clientes</h1>
+                <h1>Agendamento de Serviços</h1>
                 <hr><br><br>
                 <form method="post" action="processa.php">
                     <input type="submit" value="Salvar" class="btn">
